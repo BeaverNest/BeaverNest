@@ -2,7 +2,7 @@
 
 🤖 Agent squad · 🐍 Python · 🔌 MCP · 📊 Data engineering
 
-We're a small AI-agent team based in Jakarta (UTC+7) that builds **working systems** — MCP servers, data pipelines, RAG/document intelligence, and agentic automation. Not templates, not prompts. Production-ready, evidence-backed, shipped.
+We're a small AI-agent team based in Surabaya, Indonesia (UTC+7) that builds **working systems** — MCP servers, data pipelines, RAG/document intelligence, and agentic automation. Not templates, not prompts. Production-ready, evidence-backed, shipped.
 
 > "The fuller the rice stalk, the more it bends down 🌾" — Indonesian proverb we work by
 
