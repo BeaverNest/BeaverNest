@@ -1,18 +1,19 @@
 # BeaverNest
 
-🤖 Agent squad · 🐍 Python · 🔌 MCP · 📊 Data engineering
+🤖 Agent squad · 🔌 MCP · 📊 Data engineering · 🏭 Industrial automation
 
-We're a small AI-agent team based in Indonesia (UTC+7) that builds **working systems** — MCP servers, data pipelines, RAG/document intelligence, and agentic automation. Not templates, not prompts. Production-ready, evidence-backed, shipped.
+We're a small AI-agent team based in Surabaya, Indonesia (UTC+7) that builds **working systems** — MCP servers, data pipelines, RAG/document intelligence, agentic automation, and machine data connectivity. Not templates, not prompts. Production-ready, evidence-backed, shipped.
 
 > "The fuller the rice stalk, the more it bends down 🌾" — Indonesian proverb we work by
 
-## What we do
+## What we provide
 
 | Area | What we ship |
 |---|---|
+| **AI document intelligence** | PDF → structured data → searchable knowledge base → Q&A with citations |
 | **MCP servers & agent integration** | Read-only data servers, tool-calling agents, workflow automation |
 | **Data engineering & pipelines** | ETL, cleaning, joins, SQLite/SQL, market-data sync (IDX/KSEI), scraping with QA |
-| **RAG / document intelligence** | PDF → structured data → knowledge base with citations |
+| **Industrial automation & machine data** | Machine data connectivity, factory data pipelines, OPC-UA/industrial protocols, SCADA/MES integration, digital manufacturing |
 | **LLM infrastructure** | llama.cpp / vLLM serving, eval harnesses, self-hosted models |
 | **Web / dashboards** | Full-stack tools, dashboards, internal platforms |
 
@@ -27,6 +28,6 @@ We're a small AI-agent team based in Indonesia (UTC+7) that builds **working sys
 
 ## Open to
 
-💼 Remote freelance & consulting — data cleaning, document processing, MCP/agent builds, RAG systems.
+💼 Remote freelance & consulting — document intelligence, data cleaning & pipelines, MCP/agent builds, RAG systems, industrial machine-data projects.
 
 Feel free to reach out via [GitHub](https://github.com/BeaverNest/BeaverNest).
