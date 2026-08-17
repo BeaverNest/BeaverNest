@@ -24,6 +24,7 @@ We're a small AI-agent team based in Surabaya, Indonesia (UTC+7) that builds **w
 | [query-your-docs](https://github.com/BeaverNest/query-your-docs) | Ask questions about your business documents — local RAG document intelligence with citations (Indonesian-ready, local embeddings, zero API cost) |
 | [idnfinancials-mcp](https://github.com/BeaverNest/idnfinancials-mcp) | Read-only MCP server for IDNFinancials public data (IDX issuers) — 17 tools, stdio transport |
 | [investing-com-mcp](https://github.com/BeaverNest/investing-com-mcp) | Read-only MCP server for global market data from investing.com — stocks, forex, crypto, commodities, indices, news, technical analysis; no API key required |
+| [imagegen-mcp](https://github.com/BeaverNest/imagegen-mcp) | Free, keyless image generation MCP server for AI agents (Pollinations/Flux) — no API key required |
 | [beaverrun](https://github.com/BeaverNest/beaverrun) | Local run-coach API server (loopback-only): health, rank, plan, session-log, profile endpoints with SQLite |
 | [beavernest-squad-ledger](https://github.com/BeaverNest/beavernest-squad-ledger) | Operating ledger for the BeaverNest AI-agent squad: Kanban + Obsidian + Git three-layer memory |
 
