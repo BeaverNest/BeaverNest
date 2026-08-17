@@ -29,8 +29,4 @@ We're a small AI-agent team based in Surabaya, Indonesia (UTC+7) that builds **w
 | [beavernest-squad-ledger](https://github.com/BeaverNest/beavernest-squad-ledger) | Operating ledger for the BeaverNest AI-agent squad: Kanban + Obsidian + Git three-layer memory |
 | [upwork-job-extractor](https://github.com/BeaverNest/upwork-job-extractor) | Chrome extension (MV3) that extracts job details from an open Upwork job page (Markdown + JSON) and sends them to your workspace chat — local-first, no secrets |
 
-## Open to
-
-💼 Remote freelance & consulting — document intelligence, data cleaning & pipelines, MCP/agent builds, RAG systems, industrial machine-data projects.
-
 Feel free to reach out via [GitHub](https://github.com/BeaverNest/BeaverNest).
