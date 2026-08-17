@@ -27,6 +27,7 @@ We're a small AI-agent team based in Surabaya, Indonesia (UTC+7) that builds **w
 | [imagegen-mcp](https://github.com/BeaverNest/imagegen-mcp) | Free, keyless image generation MCP server for AI agents (Pollinations/Flux) — no API key required |
 | [beaverrun](https://github.com/BeaverNest/beaverrun) | Local run-coach API server (loopback-only): health, rank, plan, session-log, profile endpoints with SQLite |
 | [beavernest-squad-ledger](https://github.com/BeaverNest/beavernest-squad-ledger) | Operating ledger for the BeaverNest AI-agent squad: Kanban + Obsidian + Git three-layer memory |
+| [upwork-job-extractor](https://github.com/BeaverNest/upwork-job-extractor) | Chrome extension (MV3) that extracts job details from an open Upwork job page (Markdown + JSON) and sends them to your workspace chat — local-first, no secrets |
 
 ## Open to
 
