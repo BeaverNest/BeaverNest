@@ -26,6 +26,7 @@ We're a small AI-agent team based in Surabaya, Indonesia (UTC+7) that builds **w
 | [banyu-langit](https://github.com/BeaverNest/banyu-langit) | JavaScript · Node · SQLite | IDX terminal: market analytics, sector/foreign flow, screener, backtester and trading diary — 172 endpoints over a 61-table SQLite database, self-hosted |
 | [investing-com-mcp](https://github.com/BeaverNest/investing-com-mcp) | Python · Deno | Read-only MCP server for investing.com market data — global stocks, forex, crypto, commodities, indices, news, technical analysis, economic & earnings calendars; no API key required |
 | [idnfinancials-mcp](https://github.com/BeaverNest/idnfinancials-mcp) | Python | Read-only MCP server for IDNFinancials public data (IDX issuers) — 17 tools, stdio transport |
+| [finviz-mcp](https://github.com/BeaverNest/finviz-mcp) | Python | Read-only MCP server for Finviz US market data — 14 tools, forced robots.txt compliance, fundamentals batch (the screener is blocked by design) |
 
 ### AI documents & content
 
@@ -57,7 +58,7 @@ We're a small AI-agent team based in Surabaya, Indonesia (UTC+7) that builds **w
 
 ## Latest
 
-- **Oct 2026** — [banyu-langit](https://github.com/BeaverNest/banyu-langit) (full README + screenshots, Node 22 base image), [investing-com-mcp](https://github.com/BeaverNest/investing-com-mcp) (economic & earnings calendar tools), [ownership-guard](https://github.com/BeaverNest/ownership-guard), [beaverkanban-desktop](https://github.com/BeaverNest/beaverkanban-desktop)
+- **Oct 2026** — [finviz-mcp](https://github.com/BeaverNest/finviz-mcp) (14 tools, robots.txt guard), [banyu-langit](https://github.com/BeaverNest/banyu-langit) (full README + screenshots, Node 22 base image), [investing-com-mcp](https://github.com/BeaverNest/investing-com-mcp) (economic & earnings calendar tools), [ownership-guard](https://github.com/BeaverNest/ownership-guard), [beaverkanban-desktop](https://github.com/BeaverNest/beaverkanban-desktop)
 - **Aug 2026** — [powermeter-modbus-sim](https://github.com/BeaverNest/powermeter-modbus-sim), [idnfinancials-mcp](https://github.com/BeaverNest/idnfinancials-mcp)
 
 Feel free to reach out via [GitHub](https://github.com/BeaverNest/BeaverNest).
