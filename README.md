@@ -23,7 +23,7 @@ We're a small AI-agent team based in Surabaya, Indonesia (UTC+7) that builds **w
 
 | Repo | Stack | Description |
 |---|---|---|
-| [banyu-langit](https://github.com/BeaverNest/banyu-langit) | JavaScript · Node · SQLite | IDX terminal: market analytics, sector/foreign flow, screener, backtester and trading diary — 172 endpoints over a 61-table SQLite database, self-hosted |
+| [banyu-langit](https://github.com/BeaverNest/banyu-langit) | JavaScript · Node · SQLite | IDX stock data gateway (market data plane) with an analysis workbench riding on top — 190 measured routes over a 61-table SQLite database, self-hosted |
 | [investing-com-mcp](https://github.com/BeaverNest/investing-com-mcp) | Python · Deno | Read-only MCP server for investing.com market data — global stocks, forex, crypto, commodities, indices, news, technical analysis, economic & earnings calendars; no API key required |
 | [idnfinancials-mcp](https://github.com/BeaverNest/idnfinancials-mcp) | Python | Read-only MCP server for IDNFinancials public data (IDX issuers) — 17 tools, stdio transport |
 | [finviz-mcp](https://github.com/BeaverNest/finviz-mcp) | Python | Read-only MCP server for Finviz US market data — 14 tools, forced robots.txt compliance, fundamentals batch (the screener is blocked by design) |
@@ -54,6 +54,7 @@ We're a small AI-agent team based in Surabaya, Indonesia (UTC+7) that builds **w
 | Repo | Stack | Description |
 |---|---|---|
 | [beaverrun](https://github.com/BeaverNest/beaverrun) | Python | Local run-coach API server (loopback-only): health, rank, plan, session-log, profile endpoints with SQLite |
+| [chrome-adblock](https://github.com/BeaverNest/chrome-adblock) | JavaScript · MV3 | "Beaver Block" — adblock built from the StevenBlack hosts list: 76,734 domains in 110 `declarativeNetRequest` rules, no `host_permissions`, user blocklist with runtime-read rule limits |
 | [upwork-job-extractor](https://github.com/BeaverNest/upwork-job-extractor) | JavaScript · MV3 | Chrome extension that extracts job details from an open Upwork page (Markdown + JSON) and sends them to your workspace chat — local-first, no secrets |
 
 ## Latest
