@@ -54,6 +54,7 @@ We're a small AI-agent team based in Surabaya, Indonesia (UTC+7) that builds **w
 | Repo | Stack | Description |
 |---|---|---|
 | [beaverrun](https://github.com/BeaverNest/beaverrun) | Python | Local run-coach API server (loopback-only): health, rank, plan, session-log, profile endpoints with SQLite |
+| [beavershot](https://github.com/BeaverNest/beavershot) | C# · .NET 8 · WinForms | Screenshot tool for Windows with comment callouts (quote balloons) — 212 KB single exe, Lightshot-style workflow, step markers, pixelate; core logic unit-tested on Linux |
 | [chrome-adblock](https://github.com/BeaverNest/chrome-adblock) | JavaScript · MV3 | "Beaver Block" — adblock built from the StevenBlack hosts list: 76,734 domains in 110 `declarativeNetRequest` rules, no `host_permissions`, user blocklist with runtime-read rule limits |
 | [upwork-job-extractor](https://github.com/BeaverNest/upwork-job-extractor) | JavaScript · MV3 | Chrome extension that extracts job details from an open Upwork page (Markdown + JSON) and sends them to your workspace chat — local-first, no secrets |
 
